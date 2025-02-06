@@ -1,24 +1,25 @@
+<b>Team Members</b>: Maha Sidi & Ezri Abraham
 
-> Open this page at [https://mahasidi.github.io/blackjack-duos/](https://mahasidi.github.io/blackjack-duos/)
+<b>Project Name</b>: BlackJack Duos
 
-## Use as Extension
+<b>Project Concept</b>: BlackJack Duos is a two player adaptation of the classic Blackjack game, designed for the MakeCode platform. Unlike traditional Blackjack, this version does not involve a dealer. Instead, both players take turns playing against each other, aiming to get as close to 21 as possible without going over (busting).
 
-This repository can be added as an **extension** in MakeCode.
+<b>Game Rules & Controls</b>:
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/mahasidi/blackjack-duos** and import
+<ul>
+<li>Press B to ‘Hit’ (Draw a new card).</li>
 
-## Edit this project
+<li>Press A to ‘Stay’ (End your turn).</li>
 
-To edit this repository in MakeCode.
+<li>One player plays at a time.</li>
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/mahasidi/blackjack-duos** and click import
+<li>The total score is displayed in real-time as each player plays.</li>
 
-#### Metadata (used for search, rendering)
+<li>Once Player 2 is done, both scores are compared.</li>
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<li>The screen will display the winner (P1 or P2) and indicate if either player has busted.</li>
+
+<li>Celebratory music plays once a player wins.</li>
+</ul>
+
+The game is played using a custom laser printed Wild-West themed controller, enhancing the aesthetic and feel of the experience.
