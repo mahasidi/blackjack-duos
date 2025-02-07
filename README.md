@@ -22,6 +22,8 @@ https://mahasidi.github.io/blackjack-duos/
 <li>The screen will display the winner (P1 or P2) and indicate if either player has busted.</li>
 
 <li>Celebratory music plays once a player wins.</li>
+
+<li>Press A+B to reset the game.</li>
 </ul>
 
 The game is played using a custom laser printed Wild-West themed controller, enhancing the aesthetic and feel of the experience.
